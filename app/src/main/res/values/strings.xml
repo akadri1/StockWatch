@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="not_connected">You are NOT connected to internet!</string>
+    <string name="connected">You are connected to internet</string>
+    <string name="symbol_not_found_msg">Data for stock symbol not found!</string>
+    <string name="symbol_not_found">Symbol not found: </string>
+    <string name="up_arrow">\u25B2</string>
+    <string name="down_arrow">\u25BC</string>
+    <string name="no_net_msg">Stocks cannot be loaded/added without a network connection</string>
+    <string name="no_net_title">No Network Connection</string>
+    <string name="error_sym_msg">ERROR: Something went wrong, Please try again later.</string>
+</resources>
